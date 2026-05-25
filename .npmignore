@@ -1,7 +1,6 @@
 # 1. GitHub & Documentation (Keep these on GitHub, not in the package)
 .gitignore
 .github/
-README.md
 Video1.gif
 Video2.gif
 
