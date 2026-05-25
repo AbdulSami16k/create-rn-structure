@@ -1,6 +1,6 @@
 {
   "name": "create-rn-structure",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Instant modern folder scaffolding for React Native & Expo",
   "main": "bin/index.js",
   "type": "module",
