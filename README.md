@@ -26,7 +26,7 @@ Top-tier engineers don't write boilerplate. They automate it.
 
 ## 📸 See it in action
 
-![Terminal UI Demo](./Video1.gif)
+![Terminal UI Demo](https://res.cloudinary.com/dxvco4okv/image/upload/v1779711147/Video1_h0abwp.gif)
 
 ---
 
@@ -87,7 +87,7 @@ Empty folders are useless. We populate your new architecture with high-value, re
 
 Here is a glimpse of the clean, scalable architecture generated instantly on your machine:
 
-![Terminal UI Demo](./Video2.gif)
+![Terminal UI Demo](https://res.cloudinary.com/dxvco4okv/image/upload/v1779711261/Video2_gojk5e.gif)
 
 ```plaintext
 your-app/

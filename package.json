@@ -7,6 +7,14 @@
   "bin": {
     "create-rn-structure": "./bin/index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdulSami16k/create-rn-structure.git"
+  },
+  "homepage": "https://github.com/AbdulSami16k/create-rn-structure#readme",
+  "bugs": {
+    "url": "https://github.com/AbdulSami16k/create-rn-structure/issues"
+  },
   "keywords": [
     "react-native",
     "expo",
@@ -14,7 +22,7 @@
     "scaffolding",
     "folder-structure"
   ],
-  "author": "",
+  "author": "Abdul Sami",
   "license": "MIT",
   "dependencies": {
     "@clack/prompts": "^0.7.0",
