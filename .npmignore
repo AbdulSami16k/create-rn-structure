@@ -1,0 +1,19 @@
+# 1. GitHub & Documentation (Keep these on GitHub, not in the package)
+.gitignore
+.github/
+README.md
+Video1.gif
+Video2.gif
+
+# 2. Local Testing Files (Don't let test folders pollute the installation)
+src/
+app/
+
+# 3. Development/Project Metadata
+package-lock.json
+node_modules/
+.vscode/
+.DS_Store
+
+# 4. Git Metadata
+.git/
